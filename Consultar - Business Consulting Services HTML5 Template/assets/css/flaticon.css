@@ -88,3 +88,13 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-user:before {
     content: "\f117";
 }
+.flaticon-web:before {
+    content: "\f118";
+}
+.flaticon-youtube:before {
+    content: "\f119";
+}
+.flaticon-support:before {
+    content: "\f11a";
+}
+
